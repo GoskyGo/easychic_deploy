@@ -1,0 +1,507 @@
+{
+    "accountLayout": {
+        "myProfile": "Mi perfil",
+        "myAddressBook": "Direciones",
+        "vouchers": "Cupón",
+        "myOrders": "Tus pedidos",
+        "myWishlist": "Mi lista de deseos",
+        "comparedList": "Lista comparada"
+    },
+    "trackOrder": {
+        "estimatedDelivery": "Entrega estimada",
+        "estimated": "Estimado",
+        "enterCode": "Introduce el código de seguimiento de tu pedido",
+        "trackOrder": "Rastrea tu orden",
+        "orderStatus": "Estado del pedido",
+        "haveAnOrder": "¿Tienes un pedido? ¿Quieres saber dónde está tu pedido ahora?",
+        "knowProgress": "Conozca el progreso de la entrega de su producto."
+    },
+    "addressPopup": {
+        "country": "País",
+        "order": "Orden",
+        "state": "Estado",
+        "email": "Correo electrónico",
+        "name": "Nombre y Apellido",
+        "address": "Dirección",
+        "city": "Ciudad",
+        "zipCode": "Código postal",
+        "isRequired": "{type} se requiere",
+        "phone": "Teléfono",
+        "cancel": "Cancelar",
+        "update": "Actualizar",
+        "thisAddress": "{type} esta dirección",
+        "saving": "Ahorro",
+        "save": "Guardar",
+        "message": "Mensaje",
+        "addressPlaceholder": "Dirección Apto, suite, edificio, piso, etc.",
+        "address2Placeholder": "Dirección 2",
+        "subject": "Sujeto"
+    },
+    "ajaxButton": {
+        "gettingResponse": "Getting response",
+        "submit": "Continuar"
+    },
+    "cartProductTile": {
+        "bundleOffer": "Oferta de paquete",
+        "fromPickupPlace": "Desde el lugar de recogida",
+        "noShipMessage": "Este producto no se puede enviar a {state} {country}. Primero desmarque el producto o cambie la dirección de envío.",
+        "deleteAlert": "¿Realmente quieres eliminar?",
+        "fromLocation": "Desde la ubicación"
+    },
+    "categoryListingLayout": {
+        "noItemFound": "No se encontró ningún artículo."
+    },
+    "checkoutRight": {
+        "subtotalItems": "Subtotal ({itemCount} elementos)",
+        "shipping": "Envío",
+        "total": "Total",
+        "proceedToCheckout": "Pagar orden",
+        "voucher": "voucher",
+        "submitting": "Submitting"
+    },
+    "contact": {
+        "errorOccurred": "Se produjo el siguiente error",
+        "email": "Correo electrónico",
+        "name": "Nombre",
+        "your": "Su {type}",
+        "invalidEmail": "Correo inválido",
+        "success": "Éxito",
+        "successMessage": "Hemos recibido tu mensaje. Nos pondremos en contacto con usted lo antes posible.",
+        "goToHome": "Ir al inicio",
+        "now": "ahora",
+        "contactUs": "Me encanta saber de ti",
+        "feelFree": "Siéntete libre de contactarnos. Volveremos tan pronto como podamos."
+
+    },
+    "detailRight": {
+        "details": "Detalles",
+        "shippingFeeDetails": "Detalles de envío y tarifas",
+        "transactionIsSecured": "La transacción está asegurada",
+        "price": "Precio",
+        "shippingFee": "Gastos de envío",
+        "quantity": "Cantidad",
+        "adding": "Añadiendo",
+        "addToCart": "Añadir al carrito",
+        "secureTransaction": "Transacción segura",
+        "secureTransactionMsg": "Trabajamos duro para proteger su seguridad y privacidad. Nuestro sistema de seguridad de pagos cifra su información durante la transmisión. No compartimos los datos de su tarjeta de crédito con vendedores externos.",
+        "arrives": "Llega",
+        "addingToWishlist": "Agregar a la lista de deseos",
+        "removingFromWishlist": "Quitar de la lista de deseos",
+        "addToWishlist": "Añadir a la lista de deseos",
+        "removeFromWishlist": "Eliminar de la lista de deseos",
+        "outOfStock": "Este producto está agotado.",
+        "requiredAttributes": "Seleccione todos los atributos requeridos.",
+        "exceedsInventory": "La cantidad del producto excede el inventario.",
+        "buyNow": "Comprar ahora",
+        "off": "{amount} off",
+        "noReview": "Aún no hay reseña."
+    },
+    "discover": {
+        "dailyDiscover": "descubrimiento diario",
+        "showMore": "Mostrar más"
+    },
+    "dropdown": {
+        "choose": "Elegir"
+    },
+    "featured": {
+        "featured": "Featured",
+        "sold": "vendido",
+        "showAll": "Mostrar todo"
+    },
+    "listingLayout": {
+        "sortBy": "Ordenar por",
+        "for": "para",
+        "close": "Cerrrar",
+        "paginationResult": "Mostrando {from} a {to} de  {total} resultados",
+        "allProducts": "Todos los productos",
+        "price": "Precio",
+        "anyPrice": "Cualquier precio",
+        "go": "Ir",
+        "priceLowToHigh": "Menor a mayor precio",
+        "priceHighToLow": "Mayor a menor Precio",
+        "avgCustomerReview": "Promedio revisión del cliente",
+        "clear": "Clear",
+        "up": "arriba",
+        "max": "máx.",
+        "min": "mín.",
+        "collections": "Colecciones",
+        "shippingOptions": "Opciones de envío",
+        "brands": "Marcas",
+        "noProductFound": "No se encontró ningún producto.",
+        "showingResult": "Mostrando resultado",
+        "customerReviews": "Opiniones de los usuarios",
+        "loading": "Cargando",
+        "filter": "Filtrar"
+    },
+    "orderCancelPopup": {
+        "cancelOrder": "Cancelar orden",
+        "title": "Título",
+        "titleSmall": "title",
+        "SendMessage": "Enviar mensaje"
+    },
+    "orderTabbing": {
+        "cancelled": "Cancelado",
+        "cardPayment": "Pago con tarjeta",
+        "paid": "Pagado",
+        "unPaid": "No pagado",
+        "cod": "Contra entrega"
+    },
+    "payButton": {
+        "placedSuccess": "Su pedido se ha realizado con éxito."
+    },
+    "productImage": {
+        "rollOver": "Pase el cursor sobre la imagen para ampliarla",
+        "extendedView": "Haga clic en la imagen para verla ampliada"
+    },
+    "productReview": {
+        "customerReviews": "Opiniones de los usuarios",
+        "reviews": "{count} Reseñas",
+        "star": "{count} estrella",
+        "peopleReviewed": "{count} personas revisaron este producto"
+    },
+    "productDynamic": {
+        "pageOf": "Página {current} de {total}",
+        "extendedView": "Haga clic en la imagen para verla ampliada"
+    },
+    "quantityNav": {
+        "maximumExceeds": "La cantidad máxima excede.",
+        "min": "Debe tener mínimo 1 artículo."
+    },
+    "ratePopup": {
+        "addImage": "Añadir imagen",
+        "rateNow": "Califica ahora",
+        "uploadingError": "Hay un error al cargar algunas de las imágenes.",
+        "supportedImage": "Imágenes admitidas: jpg, png(Tamaño máximo: {max}kb)"
+    },
+    "searchPopup": {
+        "suggestedSearch": "Palabras clave de búsqueda sugeridas",
+        "products": "Productos",
+        "nothingFound": "No se encontró nada para ",
+        "categories": "Categorías"
+    },
+    "socialShare": {
+        "share": "Compartir",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "pinterest": "Pinterest"
+    },
+    "stripePayment": {
+        "bestDeal": "Get the best deal",
+        "creditDebit": "Credit or debit card",
+        "creditExpiry": "Credit expiry",
+        "creditCvc": "CVC",
+        "placing": "Placing",
+        "pay": "Pay {amount}"
+    },
+    "suggestedProducts": {
+        "recommendedForYou": "Recomendado para ti",
+        "alsoViewed": "La gente que vio este objeto también vio"
+    },
+    "toastMessage": {
+        "error": "Error"
+    },
+    "userAddress": {
+        "noAddress": "No se encontró ninguna dirección.",
+        "deleting": "Eliminando",
+        "delete": "Eliminar",
+        "edit": "Editar"
+    },
+    "vouchers": {
+        "noVoucher": "No se encontró ningún comprobante.",
+        "minSpend": "Gasto mínimo",
+        "valid": "Válido"
+    },
+    "footer": {
+        "siteLogo": "Site Logo",
+        "services": "EMPRESA",
+        "about": "POLÍTICAS",
+        "social": "SÍGUENOS",
+        "allRights": "Todos los derechos reservados.",
+        "payment": "Métodos de Pago"
+    },
+    "store": {
+        "avgRating": "Promedio La calificación de los productos de este vendedor es. ",
+        "noData": "No se encontró ninguna tienda.",
+        "memberSince": "Miembro desde",
+        "visitStore": "Visita la tienda",
+        "follow": "Seguir",
+        "following": "Siguiendo",
+        "unFollowing": "Dejar de seguir",
+        "followingStores": "Mis tiendas"
+    },
+    "header": {
+        "searchHere": "Busca aquí",
+        "trackOrder": "Rastrar orden",
+        "account": "Mi cuenta",
+        "login": "Iniciar Sesión",
+        "register": "Registrarse",
+        "profile": "Perfil",
+        "orders": "Pedidos",
+        "vouchers": "Cupón",
+        "logout": "Cerrar sesión",
+        "cart": "Carrito",
+        "brands": "Marcas",
+        "hotDeals": "Las mejores ofertas",
+        "faq": "Preguntas frecuentes",
+        "help": "Ayuda",
+        "contact": "Contáctenos",
+        "wishList": "Lista de deseos",
+        "comparedList": "Lista comparada"
+    },
+    "empty": {
+        "welcome": "Bienvenido a {name}",
+        "or": "O",
+        "loginFacebook": "Inicia con facebook",
+        "loginGoogle": "Inicia con google",
+        "agreement": "Al continuar, aceptas las ",
+        "privacyPolicy": "Política de privacidad"
+    },
+    "error": {
+        "sorry": "Lo sentimos, No podemos encontrar esta paágina.",
+        "try": "Intentar",
+        "reload": "Recargar",
+        "or": "o",
+        "goHome": "Ir a la página de inicio"
+    },
+    "ratingStar": {
+        "outOf": "{rating} fuera de 5"
+    },
+    "product": {
+        "home": "Inicio",
+        "rating": "Clasificación",
+        "endsIn": "Termina en",
+        "bundleDeal": "Oferta de paquete",
+        "brand": "Marca",
+        "readLess": "Leer menos",
+        "readMore": "Leer más",
+        "authentic": "100% auténtico",
+        "refundWarranty": "Reembolso y garantía",
+        "compare": "Compare",
+        "removeCompare": "Quitar comparar",
+        "shocking": "VENTA IMPACTANTE"
+    },
+    "order": {
+        "orderCancelled": "Esta orden ha sido cancelada",
+        "orderRefunded": "Este pedido ha sido reembolsado",
+        "order": "Orden",
+        "orderMethod": "Método de pedido",
+        "orderDate": "Fecha de orden",
+        "orderAmount": "Total de la orden",
+        "paymentStatus": "Estado de pago",
+        "image": "Image",
+        "cancellationMessage": "Ver mensaje de cancelación",
+        "cancelOrder": "Cancelar este pedido",
+        "subtotal": "Subtotal",
+        "shippingCost": "Costo de envío",
+        "shipTo": "Envie a",
+        "deliveryFee": "Gastos de envío",
+        "deliveryStatus": "Estado de entrega"
+    },
+    "addresses": {
+        "addAddress": "Agregar nueva dirección",
+        "try": "Intente buscar o",
+        "goHome": "Ir a la página de inicio"
+    },
+    "orders": {
+        "noOrderYet": "Aún no hay pedido.",
+        "manageOrder": "Gestionar pedido",
+        "shippingStatus": "Estado del envío",
+        "loggedWith": "Iniciado sesión con",
+        "updateProfile": "Actualización del perfil",
+        "qty": "Cantidad"
+    },
+    "profile": {
+        "password": "Contraseña",
+        "updatePassword": "Actualiza contraseña",
+        "retypePassword": "Vuelva a escribir la contraseña",
+        "currentPassword": "Contraseña actual",
+        "confirmPassword": "Confirmar Contraseña",
+        "yourCurrentPassword": "Tu contraseña actual",
+        "newPassword": "Nueva contraseña",
+        "invalidLength": "Longitud de contraseña no válida",
+        "noMatch": "La contraseña no coincide",
+        "google": "Google",
+        "facebook": "Facebook",
+        "updatingPassword": "Actualizando contraseña"
+    },
+    "wishlist": {
+        "noWishlist": "No se encontró ningún producto en la lista de deseos."
+    },
+    "compared": {
+        "noData": "No se encontró ningún producto comparado."
+    },
+    "cart": {
+        "shoppingCart": "Carrito de compra",
+        "selectItems": "Seleccionar todos los artículos",
+        "deselectItems": "Deseleccionar todos los elementos",
+        "subtotal": "Subtotal ({items} items)",
+        "noSelected": "Ningún elemento seleccionado",
+        "tax": "Impuesto",
+        "productAdded": "Producto agregado al carrito exitosamente"
+    },
+    "checkout": {
+        "selectPayment": "Selecciona el método de pago",
+        "apply": "Aplicar",
+        "applying": "Aplicando",
+        "payNow": "Pagar ahora",
+        "voucherCode": "Código",
+        "confirmOrderAnd": "Confirma el pedido y paga ahora ({amount})",
+        "confirmOrder": "Confirmar pedido",
+        "noPayment": "Actualmente no hay ningún método de pago disponible"
+    },
+    "forgotPassword": {
+        "errorOccurred": "Se produjo el siguiente error",
+        "sentEmail": "Le hemos enviado un correo electrónico que contiene un código. Pegue el código en el campo de código para actualizar su contraseña.",
+        "code": "Código",
+        "signIn": "Iniciar sesión",
+        "youCan": "Puede",
+        "verified": "Ha verificado exitosamente su cuenta.",
+        "congratulations": "Felicidades",
+        "createAccount": "Crea una cuenta",
+        "noAccount": "¿No tienes una cuenta?",
+        "registering": "Registrarse",
+        "codeFrom": "Código del correo"
+    },
+    "login": {
+        "password": "contraseña",
+        "loggingIn": "Iniciando sesión",
+        "forgotPassword": "Has olvidado tu contraseña"
+    },
+    "razorpayCallback": {
+        "wait": "Please wait"
+    },
+    "register": {
+        "haveAccount": "¿Ya tienes una cuenta?",
+        "sentEmail": "Le hemos enviado un correo electrónico que contiene un código. Pegue el código a continuación para verificar su cuenta."
+    },
+    "shipping": {
+        "instruction": "Instrucción de entrega",
+        "ordered": "Productos pedidos",
+        "addAddress": "Primero agregue una dirección.",
+        "unableShipped": "El producto no se puede enviar.",
+        "noProductSelected": "No tienes ningún producto seleccionado. Por favor seleccione un producto primero.",
+        "proceed": "Pasar por la caja",
+        "shippingOption": "Establecer opción de envío"
+    },
+    "productHelper": {
+        "refundable": "Refundable",
+        "notRefundable": "No reembolsable",
+        "mindChange": "El cambio de opinión no es aplicable.",
+        "available": "Garantía disponible",
+        "notAvailable": "Garantía no disponible"
+    },
+    "util": {
+        "location": "Ubicación",
+        "pickup": "Pasar a recoger",
+        "pending": "Pendiente",
+        "confirmed": "Confirmado",
+        "pickedUp": "Recogido",
+        "onWay": "En camino",
+        "delivered": "Entregado",
+        "creditDebit": "Tarjeta de crédito / débito",
+        "paypal": "Paypal",
+        "stripe": "Stripe",
+        "flutterwave": "Flutterwave",
+        "razorpay": "Razorpay"
+    },
+    "home": {
+        "mail": "Mail",
+        "helpline": "Línea de ayuda",
+        "shortPeriod": "Con un corto período de tiempo",
+
+        "subscribeNewsletter": "Suscríbete a nuestro boletín",
+        "getLatestEmail": "Recibe nuestra última actualización en tu correo electrónico",
+        "subscribe": "Suscribir",
+        "subscribeSuccessMsg": "Te has suscrito exitosamente a nuestro newsletter.",
+        "secureTransaction": "Transacción segura",
+        "off": "{percent}% off"
+    },
+    "detail": {
+        "inStock": "En stock",
+        "outOfStock": "Agotado"
+    },
+    "sitemap": {
+        "find": "Encuentre el producto adecuado para usted",
+        "stock": "Compra cientos de productos del stock infinito"
+    },
+    "payment":  {
+        "paypal": "Pagar con PayPal",
+        "flutterwave": "Paga con Flutterwave",
+        "stripe": "Paga con Stripe",
+        "razorpay": "Paga con Razorpay",
+        "bestDeal": "Consigue la mejor oferta"
+    },
+    "filter": {
+        "hideAll": "Ocultar todo",
+        "shop": "Shop Vouchers",
+        "rating": "Calificación y revisión",
+        "copied": "Copiado",
+        "copy": "Copiar",
+        "ckout": "Checkout",
+        "address": "Dirección de usuario",
+        "iyzicoPayment": "pago iyzico",
+        "payIyzico": "Pay with Iyzico",
+        "placed": "Colocado en {date}",
+        "featured": "Featured {title}",
+        "success": "Success",
+        "addSucc": "Address {msg} successfully!!!"
+    },
+    "date": {
+        "sat": "Sábado",
+        "sun": "Domingo",
+        "mon": "Lunes",
+        "tue": "Martes",
+        "wed": "Miércoles",
+        "thu": "Jueves",
+        "fri": "Viernes",
+        "jan": "Enero",
+        "feb": "Febrero",
+        "mar": "Marzo",
+        "apr": "Abril",
+        "may": "Mayo",
+        "jun": "Junio",
+        "jul": "Julio",
+        "aug": "Agosto",
+        "sep": "Septiembre",
+        "oct": "Octubre",
+        "nov": "Noviembre",
+        "dec": "Deciembre",
+        "ddddMMMD": "{day}, {mon} {date}",
+        "MMMDDYYYY": "{mon} {date}, {year}",
+        "da": "Borrar cuenta",
+        "addr": "Direcciones",
+        "gb": "Regresa",
+        "bav": "Registro de Tienda",
+        "nf": "Esta página no se pudo encontrar.",
+        "sn": "Nombre de la tienda",
+        "bt": "Transferencia bancaria",
+        "pv": "Verificación de pago",
+        "vp": "Verificar pago",
+        "ti": "Identificación trans",
+        "bn": "Nombre del banco",
+        "ahn": "Titular de la cuenta",
+        "an": "Número de cuenta",
+        "brn": "Nombre de la sucursal",
+        "kr": "Por favor envíe su pago directamente a los datos bancarios proporcionados. Asegúrese de incluir el ID de la transacción y enviarlo para la verificación del pago.",
+        "pds": "Datos de pago enviados correctamente",
+        "cb": "El sitio web utiliza cookies para garantizar que obtenga la mejor experiencia en nuestro sitio web.",
+        "gi": "Got it",
+        "fi": "Imagen destacada",
+        "dad": "Dirección de entrega",
+        "os": "Resumen del pedido",
+        "ptp": "Proceder al pago",
+        "ttl": "Su monto total de ahorro en este pedido",
+        "pa": "Dirección de entrega",
+        "tl": "Teléfono",
+        "reg": "¡Regístrese ahora con unos sencillos pasos!",
+        "sr": "Registro de tienda",
+        "pm": "Asegúrese de completar el formulario con su información real o, de lo contrario, su cuenta podría ser prohibida o suspendida.",
+        "yw": "Recibirá un correo electrónico después de que se apruebe su cuenta.",
+        "gh": "Ir al inicio",
+        "offer": "{amount}% Oferta"
+    },
+    "invent": {
+        "fs": "Envío gratis",
+        "fre": "Gratis"
+    }
+}
